@@ -57,5 +57,5 @@ production:
   <<: *default
   host: jj820qt5lpu6krut.cbetxkdyhwsb.us-east-1.rds.amazonaws.com 
   database: kaka_production
-  username: y7uzgk594z2t1km4  
-  password: pi85pun7qchyjvw3
+  username: y7uzgk594z2t1km4
+  password: xg1uguufangoiffw
